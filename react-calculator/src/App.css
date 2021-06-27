@@ -41,3 +41,10 @@ p, input {
   display: inline-block;
   margin:1em;
 }
+
+.reset-btn {
+  display: block;
+  margin-right: auto;
+  margin-left:auto;
+  margin-bottom:2em;
+}
